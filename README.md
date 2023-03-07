@@ -1,1 +1,1 @@
-It's not only that you know to create new branch for your co-workers to work on update that you can work on that same project, get up and pull request for their changes and compare... deadline is soon.
+It's not only that you know to create new branch for your co-workers to work on update that you can not work on that same project, get up and pull request for their changes and compare... deadline is soon.
